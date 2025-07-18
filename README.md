@@ -3,7 +3,11 @@
 This is a simple content-based movie recommendation system built using Python and the TMDB movies metadata dataset. It recommends movies based on plot similarity using TF-IDF vectorization and cosine similarity.
 
 ---
+## 📁 Dataset
+Due to GitHub’s file size limit, the dataset is not included here.
 
+You can download it from:  
+🔗 [The Movie Dataset (Kaggle)](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 ## 📌 Features
 
 - Recommend movies based on a movie you like
